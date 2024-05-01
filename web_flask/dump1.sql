@@ -1,4 +1,4 @@
-ample data for Task 12
+-- Sample data for Task 12
 USE hbnb_dev_db;
 INSERT INTO amenities(id, created_at, updated_at, name) VALUES
   ('017ec502-e84a-4a0f-92d6-d97e27bb6bdf','2017-03-25 02:17:06','2017-03-25 02:17:06','Cable TV'),
